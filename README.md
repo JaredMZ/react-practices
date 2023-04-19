@@ -1,2 +1,2 @@
 # react-practices
-Repository with React practices beginner level 
+Repository with React practices beginner level :sunglasses:
